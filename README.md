@@ -16,15 +16,43 @@
 
 ### 🔝 Top Repos
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=vishesh-017&repo=BrahMos-VisionAI&show_owner=true&theme=dark)](https://github.com/vishesh-017/BrahMos-VisionAI)
+<table>
+<tr>
+<td valign="top">
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=vishesh-017&repo=bharat-learn&show_owner=true&theme=dark)](https://github.com/vishesh-017/bharat-learn)
+<a href="https://github.com/vishesh-017/BrahMos-VisionAI">
+<img src="https://github-stats-extended.vercel.app/api/pin?username=vishesh-017&repo=BrahMos-VisionAI&show_owner=true&theme=dark" />
+</a>
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=vishesh-017&repo=fleetflow&show_owner=true&theme=dark)](https://github.com/vishesh-017/fleetflow)
+<br><br>
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=vishesh-017&repo=SevaLink-AI-Smart-Resource-Allocation-System&show_owner=true&theme=dark)](https://github.com/vishesh-017/SevaLink-AI-Smart-Resource-Allocation-System)
+<a href="https://github.com/vishesh-017/bharat-learn">
+<img src="https://github-stats-extended.vercel.app/api/pin?username=vishesh-017&repo=bharat-learn&show_owner=true&theme=dark" />
+</a>
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=vishesh-017&repo=denguesense-ai&show_owner=true&theme=dark)](https://github.com/vishesh-017/denguesense-ai)
+<br><br>
+
+<a href="https://github.com/vishesh-017/fleetflow">
+<img src="https://github-stats-extended.vercel.app/api/pin?username=vishesh-017&repo=fleetflow&show_owner=true&theme=dark" />
+</a>
+
+</td>
+
+<td valign="top">
+
+<a href="https://github.com/vishesh-017/SevaLink-AI-Smart-Resource-Allocation-System">
+<img src="https://github-stats-extended.vercel.app/api/pin?username=vishesh-017&repo=SevaLink-AI-Smart-Resource-Allocation-System&show_owner=true&theme=dark" />
+</a>
+
+<br><br>
+
+<a href="https://github.com/vishesh-017/denguesense-ai">
+<img src="https://github-stats-extended.vercel.app/api/pin?username=vishesh-017&repo=denguesense-ai&show_owner=true&theme=dark" />
+</a>
+
+</td>
+</tr>
+</table>
 
 
 
