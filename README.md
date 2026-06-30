@@ -16,7 +16,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Repos
-![](https://github-stats-extended.vercel.app/api/pin?username=vishesh-017&repo=vishesh-017/BrahMos-VisionAI&show_owner=true&theme=dark)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=vishesh-017&repo=vishesh-017/BrahMos-VisionAI&show_owner=true&theme=dark)](https://github.com/vishesh-017/BrahMos-VisionAI)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=vishesh-017&icon=0&color=0)](https://visitcount.itsvg.in)
