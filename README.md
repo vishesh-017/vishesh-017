@@ -47,7 +47,7 @@
 </p>
 
 ## 📊 GitHub Stats:
-![](https://github-stats-extended.vercel.app/api?username=vishesh-017&rank_icon=percentile&show=reviews&show_icons=true&include_all_commits=true&theme=dark)<br/>
+![](https://github-stats-extended.vercel.app/api?username=vishesh-017&rank_icon=percentile&show=reviews&show_icons=true&include_all_commits=true&theme=dark) 
 ![](https://github-stats-extended.vercel.app/api/top-langs/?username=vishesh-017&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
