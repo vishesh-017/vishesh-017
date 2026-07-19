@@ -28,7 +28,7 @@
 ## 🚀 About Me
 
 - 🎓 B.Tech Computer Science @ Nirma University (2028)
-- 🏆 Hackathon Builder & Open Source Enthusiast
+- 🏆 Cursor Hackathon Winner & Open Source Enthusiast
 - 🤖 Interested in AI, Backend Engineering & Distributed Systems
 - 💻 Solved 450+ DSA Problems
 - 🌱 Currently building AI-powered enterprise applications
