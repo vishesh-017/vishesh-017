@@ -74,16 +74,16 @@
 
 <br>
 
-<a href="https://github.com/vishesh-017/fleetflow">
-<img src="https://github-stats-extended.vercel.app/api/pin?username=vishesh-017&repo=fleetflow&show_owner=true&theme=dark" />
+<a href="https://github.com/vishesh-017/healnexus">
+<img src="https://github-stats-extended.vercel.app/api/pin?username=vishesh-017&repo=healnexus&show_owner=true&theme=dark" />
 </a>
 
 </td>
 
 <td valign="top">
 
-<a href="https://github.com/vishesh-017/SevaLink-AI-Smart-Resource-Allocation-System">
-<img src="https://github-stats-extended.vercel.app/api/pin?username=vishesh-017&repo=SevaLink-AI-Smart-Resource-Allocation-System&show_owner=true&theme=dark" />
+<a href="https://github.com/vishesh-017/urbanexus">
+<img src="https://github-stats-extended.vercel.app/api/pin?username=vishesh-017&repo=urbanexus&show_owner=true&theme=dark" />
 </a>
 
 <br>
@@ -94,8 +94,8 @@
 
 <br>
 
-<a href="https://github.com/vishesh-017/UrbaNexus">
-<img src="https://github-stats-extended.vercel.app/api/pin?username=vishesh-017&repo=Urbanexus&show_owner=true&theme=dark" />
+<a href="https://github.com/vishesh-017/evaLink-AI-Smart-Resource-Allocation-System">
+<img src="https://github-stats-extended.vercel.app/api/pin?username=vishesh-017&repo=evaLink-AI-Smart-Resource-Allocation-System&show_owner=true&theme=dark" />
 </a>
 
 </td>
