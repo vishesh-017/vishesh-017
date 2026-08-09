@@ -92,6 +92,12 @@
 <img src="https://github-stats-extended.vercel.app/api/pin?username=vishesh-017&repo=denguesense-ai&show_owner=true&theme=dark" />
 </a>
 
+<br>
+
+<a href="https://github.com/vishesh-017/UrbaNexus">
+<img src="https://github-stats-extended.vercel.app/api/pin?username=vishesh-017&repo=Urbanexus&show_owner=true&theme=dark" />
+</a>
+
 </td>
 </tr>
 </table>
