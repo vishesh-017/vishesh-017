@@ -94,8 +94,8 @@
 
 <br>
 
-<a href="https://github.com/vishesh-017/evaLink-AI-Smart-Resource-Allocation-System">
-<img src="https://github-stats-extended.vercel.app/api/pin?username=vishesh-017&repo=evaLink-AI-Smart-Resource-Allocation-System&show_owner=true&theme=dark" />
+<a href="https://github.com/vishesh-017/sevaLink-AI-Smart-Resource-Allocation-System">
+<img src="https://github-stats-extended.vercel.app/api/pin?username=vishesh-017&repo=sevaLink-AI-Smart-Resource-Allocation-System&show_owner=true&theme=dark" />
 </a>
 
 </td>
