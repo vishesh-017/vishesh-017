@@ -43,7 +43,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=vishesh-017&theme=radical&hide_border=true&border_radius=12"/>
+<img src="https://streak-stats.demolab.com?user=vishesh-017&theme=radical&border_radius=12"/>
 </p> 
 
 ## 📊 GitHub Stats:
