@@ -43,7 +43,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=vishesh-017"/>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=vishesh-017&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 </p> 
 
 ## 📊 GitHub Stats:
