@@ -4,7 +4,7 @@
 
 ### Software Engineer • AI Builder • Full Stack Developer
 
-*Building AI-powered products that solve real-world problems.*
+*Building AI-powered products that solve real-world problems.* 
 
 <p>
 <a href="https://linkedin.com/in/shah-vishesh">
