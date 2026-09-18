@@ -74,9 +74,9 @@
 
 <br>
 
-<a href="https://github.com/vishesh-017/healnexus">
+<!-- <a href="https://github.com/vishesh-017/healnexus">
 <img src="https://github-stats-extended.vercel.app/api/pin?username=vishesh-017&repo=healnexus&show_owner=true&theme=dark" />
-</a>
+</a> -->
 
 </td>
 
